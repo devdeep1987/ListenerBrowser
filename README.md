@@ -5,7 +5,7 @@ The browser has been tested until Android O.
 This is how to use the browser:
 <html>
             <b>Start Listening</b><br>Hit this button to make the browser listen. When &#x1f442; is visible, use one of the following commands. The browser does not listen when it is reading or playing music.<br><br>
-            <b>Record Audio Permissions</b><br> This app requires 'record audio permissions' to hear your commands. The browser does not store any recordings. View our <a href=\"http://www.yahoo.com\">Privacy Policy</a>.<br><br>
+            <b>Record Audio Permissions</b><br> This app requires 'record audio permissions' to hear your commands. The browser does not store any recordings.<br><br>
             <ul>
             <li>Say <b>'open/go to/find/show <i>any query'</i></b><br><b>Ex: 'show good restaurants'</b> opens most relevant page matching the query 'good restaurants.'<br>
                     <b>Ex: 'open example.com'</b> opens example.com<br>
